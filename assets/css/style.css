@@ -1,0 +1,113 @@
+body {
+	background: url("../images/2007Giants.jpg");
+}
+#collector {
+	width: auto;
+	height: auto;
+	background: #75A5E7;
+	margin-top: 20px;
+/*	margin-left: -14px;
+    margin-bottom: 20px;
+	float: left; */
+}
+
+/*p:hover, h1:hover, a:hover {
+    background-color: yellow;
+text-decoration: none;
+border: 2px solid black;
+} */
+p {
+	font-size: 15px;
+
+}
+
+
+
+.cch {
+	 padding-top: 150px;
+	 padding-bottom: 150px;
+}
+
+h1.text-center.cch {
+	margin-top: 3px;
+}
+
+/*#info {
+	width: 500px;
+	height: 300px;
+	background: #F5E4C4;
+	color: #228B22;
+	padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+} */
+
+#info {
+	padding-bottom: 400px;
+}
+
+button {
+	  margin-left: 450px;
+    width: 300px;
+    height: 84px;
+    font-size: 4em;
+
+}
+
+#timer {
+	  margin-left: 350px;
+/*    width: 300px;
+    height: 84px; */
+    font-size: 2em;
+
+}
+#computerGuess {
+	width: 250px;
+	height: 150px;
+	background: #3CB371;
+	color: 	#000080;
+	font-size: 50px;
+}
+
+#gsCol {
+	 margin-left: -134px;
+}
+
+#gameStatus {
+	width: 100px;
+	height: 150px;
+	background: #48D1CC;
+}
+
+img {
+	height: 95px;
+	width: 85px;
+	margin-left: 10px;
+}
+
+#imgId {
+	margin-top: 20px;
+} 
+#totScoreTxt {
+	width: 250px;
+	height: 30px;
+	background: #008080;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: #FFFFF0;
+	padding-left: 10px;
+}
+
+#totScore {
+	width: 250px;
+	height: 150px;
+	background: #008080;
+	font-size: 50px;
+	color: #FFFFF0;
+
+}
+
+#bottom {
+	height: 200px;
+}
